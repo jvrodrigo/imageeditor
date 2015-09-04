@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/icons/main.png</file>
+    <file>images/icons/open.png</file>
+    <file>images/icons/save.png</file>
+    <file>images/icons/exit.png</file>
+    <file>images/qt-logo.jpg</file>
+</qresource>
+</RCC>
